@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ireland-income-tax.tabutility.com/sitemap.xml
